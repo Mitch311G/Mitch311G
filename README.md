@@ -1,6 +1,6 @@
 ![](assets/G.gif)
 <p align-"center">
-  <img src="assets/mitchell.gif">
+  <img src="assets/mitchell.gif"></img>
 </p>
 # Hi there 👋 Mitchell Gardner here!
 I'm a **full stack** engineer skilled in building dynamic web applications. My love for software engineering lies in the culmination of creativity and logic required to produce high performing, scalable applications, along with the vast ocean of information available to learn new technologies. When not working, you’ll find me spending time with my wife and friends, playing video games, traveling to Cabo, and tinkering with small DIY projects.
