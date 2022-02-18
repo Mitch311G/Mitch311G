@@ -2,6 +2,8 @@
 # Hi there 👋 Mitchell Gardner here!
 I'm a **full stack** engineer skilled in building dynamic web applications. My love for software engineering lies in the culmination of creativity and logic required to produce high performing, scalable applications, along with the vast ocean of information available to learn new technologies. When not working, you’ll find me spending time with my wife and friends, playing video games, traveling to Cabo, and tinkering with small DIY projects.
 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=007EC6)](https://www.linkedin.com/in/mitchell-gardner-)
+
 ## Technical Skills
 
 ### Front End
@@ -33,4 +35,4 @@ I'm a **full stack** engineer skilled in building dynamic web applications. My l
 ---
 - 🔭 I’m currently looking for full-time opportunities where I can apply my skills and passion to make a positive impact!
 - 💬  **Want to connect? I'd love to here from you!**
-- 📫  mitchellwgardner@gmail.com | https://www.linkedin.com/in/mitchell-gardner-
+- 📫  mitchellwgardner@gmail.com
