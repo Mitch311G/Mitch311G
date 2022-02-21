@@ -34,6 +34,7 @@ I'm a **full stack** engineer skilled in building dynamic web applications. My l
 ![webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Trello](	https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ---
 - 🔭 I’m currently looking for full-time opportunities where I can apply my skills and passion to make a positive impact!
 - 💬  **Want to connect? I'd love to here from you!**
